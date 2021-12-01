@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @backzso
 - 👀 I’m interested in RPA and Cyber Security
 - 🌱 I’m currently learning Machine Learning
 
