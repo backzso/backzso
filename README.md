@@ -1,5 +1,5 @@
 - 👀 I’m interested in RPA and Cyber Security
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning and SWIFT
 
 
 <!---
