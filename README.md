@@ -1,5 +1,5 @@
-- 👀 I’m interested in RPA and Cyber Security
-- 🌱 I’m currently learning Machine Learning and SWIFT
+- 👀 Skills: JavaScript, SQL, C#, Bootstrap, Visual Studio Code, Python, Apache Kafka, Knime, RPA, software development, data structures.
+- 🌱 Currently Learning: Java, Spring Framework, JSP
 
 
 <!---
