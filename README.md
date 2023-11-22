@@ -1,5 +1,5 @@
-- 👀 Skills: JavaScript, SQL, Bootstrap, Visual Studio Code, Python, Apache Kafka, Knime, RPA, software development, data structures.
-- 🌱 Currently Learning: Java, Spring Framework, JSP
+- 👀 Skills: ReactJS, NodeJS, JavaScript, PostgreSQL, Bootstrap, Visual Studio Code, Python, Apache Kafka, Knime, RPA, software development, data structures.
+- 🌱 Currently Learning: CyberSecurity
 
 
 <!---
