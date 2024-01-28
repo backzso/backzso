@@ -1,5 +1,5 @@
-- 👀 Skills: ReactJS, NodeJS, JavaScript, PostgreSQL, Bootstrap, Visual Studio Code, Python, Apache Kafka, Knime, RPA, software development, data structures.
-- 🌱 Currently Learning: CyberSecurity
+- 👀 Skills: NodeJS, JavaScript, ReactJS, PostgreSQL, Bootstrap, Python, Apache Kafka, Knime, RPA
+- 🌱 Currently Learning: CyberSecurity, Computer Forensics
 
 
 <!---
